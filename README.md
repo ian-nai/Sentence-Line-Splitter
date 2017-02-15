@@ -12,7 +12,7 @@ For an approving God.
 A swelling of the ground;  
 And Being but an ear
 
-If the program were run again with the same textual inputs, a different stanza would be produced using lines randomly selected from each poem.
+If the program were run again with the same textual inputs, a different stanza would be produced using one line randomly selected from each poem.
 
 
 
