@@ -1,4 +1,4 @@
-# four-lines
+# Sentence/Line Splitter
 A Python script to print random sentences and/or lines from four text files. The script uses NLTK to split the text files into separate sentences or lines, then selects a random sentence from each file and prints the results. For use in text analysis and comparison as well as digital poetics.
 
 The script can easily be modified to include a greater or fewer number of text files. four_lines.py uses NLTK's line tokenizer to split the text files into lines, whereas four_sentences.py uses the sentence tokenizer to split the text into sentences. four_lines.py was designed to be used for poems, and four_sentences for prose. Blank lines are excluded by the line tokenizer.
