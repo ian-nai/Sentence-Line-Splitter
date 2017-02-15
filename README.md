@@ -3,6 +3,5 @@ A Python script to print random sentences from four text files. The script uses 
 
 The script can easily be modified to include a greater or fewer number of text files. 
 
-## Example:
 
 
