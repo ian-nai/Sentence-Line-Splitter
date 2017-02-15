@@ -8,11 +8,8 @@ The script can easily be modified to include a greater or fewer number of text f
 Four Emily Dickinson poems--"I Felt a Funeral in My Brain," "Because I Could Not Stop for Death," "The Bustle in a House," and "Apparently with No Surprise"--were run through the four_lines.py script to produce a new stanza with random lines from each poem. The result was:
 
 The sweeping up the heart
-
 For an approving God.
-
 A swelling of the ground;
-
 And Being but an ear
 
 
